@@ -1,0 +1,6 @@
+Needed for this solution
+*************************
+
+Package for Microservices 
+
+npm i @nestjs/microservices (instalar en ambas aplicaciones)
